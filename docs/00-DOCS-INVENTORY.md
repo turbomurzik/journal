@@ -15,6 +15,8 @@ This inventory is the registry of durable project documentation. A file being ne
 | `docs/00-DECISIONS.md` | CANONICAL | Accepted editorial/product decisions. |
 | `docs/00-DOCS-INVENTORY.md` | CANONICAL | Registry and status of durable docs. |
 | `docs/research/01-WHAT-THIS-JOURNAL-IS.md` | CANONICAL RESEARCH BASELINE | Current authoritative synthesis of the publication concept; subordinate to accepted decisions. |
+| `docs/standards/DOCUMENTATION_DISCIPLINE_v1.0.md` | STANDARD | Documentation source-of-truth, status and anti-duplication rules. |
+| `docs/operations/documentation_discipline_adoption.md` | OPERATIONS | Project adoption boundary for the documentation discipline standard. |
 
 ## Current control set
 
