@@ -22,6 +22,8 @@ Do not infer project state from README prose, research notes or chat history alo
 
 ## Documentation discipline
 
+The project adopts `docs/standards/DOCUMENTATION_DISCIPLINE_v1.0.md` through `docs/operations/documentation_discipline_adoption.md`. The standard is subordinate to this file.
+
 - one durable question = one current authoritative document;
 - update the current document instead of creating parallel "latest/final/v2" files;
 - research and evidence are not decisions;
@@ -56,3 +58,5 @@ Do not claim durable work is complete unless decisions, status and inventory are
 ## Entry files
 
 `AGENTS.md` and `CLAUDE.md` are thin pointers only and may not create competing governance.
+
+The canonical concept research baseline is `docs/research/01-WHAT-THIS-JOURNAL-IS.md`.
