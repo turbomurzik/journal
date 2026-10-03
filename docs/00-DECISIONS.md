@@ -24,7 +24,15 @@ The publication should reward arguments that make readers re-examine categories 
 
 **Decision:** Do not define the publication by one subject vertical.
 
-Working editorial territories may include ideas and philosophy; politics and institutions; technology and science; history; culture and society. These are broad editorial territories, not yet final navigation labels.
+Working editorial territories may include:
+
+- ideas and philosophy;
+- politics and institutions;
+- technology and science;
+- history;
+- culture and society.
+
+These are broad editorial territories, not yet final navigation labels.
 
 **Status:** ACCEPTED.
 
@@ -33,6 +41,8 @@ Working editorial territories may include ideas and philosophy; politics and ins
 **Decision:** The publication should have an intellectually rebellious temperament: no familiar category receives immunity from examination.
 
 Provocation is not sufficient. Claims must survive evidence, argument and editorial scrutiny.
+
+A useful boundary statement is:
 
 > **No topic is too established to question, and no argument is interesting merely because it is provocative.**
 
@@ -50,9 +60,9 @@ The founder may publish in the magazine, but the publication must not be designe
 
 ## DEC-006 — Documentation discipline
 
-**Decision:** Use PROJECT_RULES.md as repository governance; docs/STATUS.md as current-state dashboard; docs/00-DECISIONS.md for accepted decisions; and docs/00-DOCS-INVENTORY.md for durable document status.
+**Decision:** Use `PROJECT_RULES.md` as repository governance; `docs/STATUS.md` as current-state dashboard; `docs/00-DECISIONS.md` for accepted decisions; and `docs/00-DOCS-INVENTORY.md` for durable document status.
 
-Research documents may be designated CANONICAL RESEARCH BASELINE, but remain subordinate to accepted decisions.
+Research documents may be designated `CANONICAL RESEARCH BASELINE`, but remain subordinate to accepted decisions.
 
 **Status:** ACCEPTED.
 

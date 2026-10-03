@@ -21,11 +21,11 @@ The prototype is allowed to proceed before naming only as a technical and visual
 - Ghost 6 with a custom theme is the accepted v1 platform unless the prototype reveals a blocking requirement.
 - Do not write a custom publishing backend without a concrete requirement Ghost cannot satisfy.
 
-See docs/00-DECISIONS.md for accepted decisions.
+See `docs/00-DECISIONS.md` for accepted decisions.
 
 ## Current canonical research baseline
 
-docs/research/01-WHAT-THIS-JOURNAL-IS.md
+`docs/research/01-WHAT-THIS-JOURNAL-IS.md`
 
 ## Active task
 
@@ -56,4 +56,4 @@ Editorial identity work remains open in parallel:
 
 ## Next authorized step
 
-Run scripts/bootstrap-ghost-local.sh and inspect the custom theme in local Ghost. Do not add backend services during this spike.
+Run `scripts/bootstrap-ghost-local.sh` and inspect the custom theme in local Ghost. Do not add backend services during this spike.
