@@ -1,3 +1,7 @@
-# Status
+# Journal Status
 
-Editorial concept formation.
+**Status:** CURRENT
+
+Current phase: editorial concept formation before naming or implementation.
+
+Next: naming and positioning research.
