@@ -1,0 +1,17 @@
+{
+  "name": "journal-editorial-theme",
+  "description": "Custom Ghost theme for the Journal project.",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {"ghost": ">=6.0.0"},
+  "license": "UNLICENSED",
+  "config": {
+    "posts_per_page": 9,
+    "image_sizes": {
+      "s": {"width": 420},
+      "m": {"width": 900},
+      "l": {"width": 1600}
+    }
+  },
+  "scripts": {"test": "npx gscan@latest ."}
+}
