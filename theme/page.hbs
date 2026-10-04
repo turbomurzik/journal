@@ -1,0 +1,13 @@
+{{!< default}}
+
+{{#post}}
+<main class="article-page page-template">
+    <article>
+        <header class="article-header article-header--page">
+            <h1>{{title}}</h1>
+            {{#if custom_excerpt}}<p class="article-dek">{{custom_excerpt}}</p>{{/if}}
+        </header>
+        <div class="article-content gh-content">{{content}}</div>
+    </article>
+</main>
+{{/post}}

@@ -66,6 +66,18 @@ Research documents may be designated `CANONICAL RESEARCH BASELINE`, but remain s
 
 **Status:** ACCEPTED.
 
+## DEC-007 — Ghost as the v1 publishing platform
+
+**Decision:** Use self-hosted Ghost 6 with a repository-owned custom theme as the v1 publishing platform.
+
+The purpose is to avoid building commodity CMS/backend functionality from scratch. Ghost owns publishing, editing, authors, tags, staff roles and scheduling. The repository owns the public theme and project documentation.
+
+The publication name remains unresolved and must not be hard-coded into the prototype.
+
+A custom application backend may be introduced only if a concrete editorial requirement cannot be met cleanly by Ghost. The implementation spike may falsify this decision if it exposes a genuine blocker.
+
+**Status:** ACCEPTED.
+
 ## Open decisions — not yet accepted
 
 - publication name and domain;
@@ -79,8 +91,8 @@ Research documents may be designated `CANONICAL RESEARCH BASELINE`, but remain s
 - commissioning workflow and editorial pipeline;
 - legal entity/ownership structure;
 - corrections, conflicts and editorial-independence policies;
-- public website/platform stack;
-- newsletter stack;
+- newsletter configuration;
+- production hosting topology;
 - first launch cohort of contributors;
 - launch issue/package;
 - monetization model and whether monetization is pursued at all in year one.
