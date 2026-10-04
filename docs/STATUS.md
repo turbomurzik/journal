@@ -27,16 +27,30 @@ See `docs/00-DECISIONS.md` for accepted decisions.
 
 `docs/research/01-WHAT-THIS-JOURNAL-IS.md`
 
+## Implementation state
+
+- Repository: `turbomurzik/journal`.
+- Prototype branch: `feature/ghost-v1-prototype`.
+- Draft pull request: **#1 — Ghost v1 editorial prototype**.
+- The branch contains the first custom Ghost theme, local bootstrap script and implementation documentation.
+- The prototype has **not yet been validated on the founder's Mac**.
+- The branch is **not yet merged into `main`**.
+- No production deployment has been created.
+- No publication name has been hard-coded.
+
 ## Active task
 
 Validate the first Ghost visual prototype locally.
 
 Current implementation order:
-1. boot local Ghost;
-2. activate the repository theme;
-3. publish representative test content;
-4. review homepage, article, author and section pages on desktop and mobile;
-5. record only genuine platform blockers.
+1. clone the repository locally;
+2. check out `feature/ghost-v1-prototype`;
+3. boot local Ghost;
+4. activate the repository theme;
+5. publish representative test content;
+6. review homepage, article, author and section pages on desktop and mobile;
+7. record only genuine platform blockers;
+8. merge PR #1 only after local validation.
 
 Editorial identity work remains open in parallel:
 - naming territory;
@@ -56,4 +70,4 @@ Editorial identity work remains open in parallel:
 
 ## Next authorized step
 
-Run `scripts/bootstrap-ghost-local.sh` and inspect the custom theme in local Ghost. Do not add backend services during this spike.
+Clone the repository locally and validate draft PR #1 on the founder's Mac. Do not add backend services during this spike.
