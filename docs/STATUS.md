@@ -16,6 +16,7 @@ Editorial concept formation before naming, platform build or contributor outreac
 - Canonical editorial north star: **Take a familiar idea seriously enough that it becomes unfamiliar again.**
 - External contributors are structurally important to the publication's identity.
 - The publication should be intellectually challenging without treating provocation as sufficient.
+- Proactive targeted commissioning is the primary launch contributor model (DEC-008); editors identify research-based public questions and invite original essays from external authors.
 
 See `docs/00-DECISIONS.md` for accepted decisions.
 
@@ -25,17 +26,21 @@ See `docs/00-DECISIONS.md` for accepted decisions.
 
 ## Active task
 
-Turn the concept into a distinguishable publication identity.
+Turn the editorial concept and newly accepted commissioning model into a distinctive, testable publication identity.
 
-Current order:
-1. naming territory;
-2. comparator/whitespace research;
-3. one-sentence public positioning;
-4. initial editorial sections/content architecture;
-5. first launch package and contributor targets.
+Comparator research and a first five-concept commissioning exercise were completed as research input, not as approved author invitations.
+
+Current editorial order:
+1. Verify and develop commissioning briefs for the three provisional research leads in the canonical research baseline;
+2. clarify what distinct editorial contribution each proposed essay would make;
+3. refine naming territory and the one-sentence public position;
+4. define sections/content architecture and the first launch package;
+5. identify and assess possible contributors before any outreach.
 
 ## Deferred / not active
 
+- outreach to contributors pending verified briefs and an explicit outreach decision;
+- Ghost implementation remains in a separate unmerged draft PR #1, whose local validation is pending;
 - website implementation;
 - CMS and newsletter tooling;
 - monetization implementation;
@@ -44,4 +49,4 @@ Current order:
 
 ## Next authorized step
 
-Run naming and positioning research against the canonical concept. Do not build the website first.
+Prepare one evidence-checked pilot commissioning brief from the provisional shortlist, with no external outreach yet. Naming and positioning remain open; do not treat the Ghost prototype as a public launch.

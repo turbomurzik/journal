@@ -66,6 +66,20 @@ Research documents may be designated `CANONICAL RESEARCH BASELINE`, but remain s
 
 **Status:** ACCEPTED.
 
+## DEC-008 - Proactive editorial commissioning
+
+**Decision (2026-10-10):** The initial contributor-acquisition model is primarily proactive, targeted commissioning, not passive collection of unsolicited manuscripts.
+
+The editor identifies promising research, archival discoveries, field work, professional expertise or developing arguments; isolates a valuable public intellectual question; and invites a suitable external author to write an original essay addressing it.
+
+The editor contributes by framing the question, scrutinizing the argument, and helping develop scope, evidence and counterarguments. The author remains responsible for their reasoning, claims and final position. Editorial commissioning must not prescribe the author's conclusions.
+
+External authors are essential to the publication's identity. An open submissions channel is optional and not a prerequisite for launch.
+
+This decision does not set commissioning volume, contributor fees, pitch-response deadlines, a detailed editorial pipeline or a date for opening unsolicited submissions.
+
+**Status:** ACCEPTED.
+
 ## Open decisions — not yet accepted
 
 - publication name and domain;
@@ -73,7 +87,7 @@ Research documents may be designated `CANONICAL RESEARCH BASELINE`, but remain s
 - final section/navigation architecture;
 - launch cadence;
 - pitch and draft decision service levels;
-- submissions versus commissioning balance;
+- whether and when to enable open submissions alongside primary targeted commissioning;
 - contributor compensation policy;
 - final AI-use/disclosure policy;
 - commissioning workflow and editorial pipeline;

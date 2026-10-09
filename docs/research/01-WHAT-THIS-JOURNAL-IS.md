@@ -1,7 +1,7 @@
 # What This Journal Is
 
 **Status:** CANONICAL RESEARCH BASELINE  
-**Date:** 2026-10-03  
+**Updated:** 2026-10-10  
 **Founder & Editor:** Ilias Konstantinidis
 
 This document is the current authoritative research synthesis of the publication concept. It is subordinate to `docs/00-DECISIONS.md`: research hypotheses and recommendations do not become accepted policy until promoted there.
@@ -130,7 +130,7 @@ A strong launch should ideally contain mostly or entirely external authors. The 
 
 The first authors do not need to arrive through an open submissions inbox.
 
-The strongest initial mechanism is likely **targeted commissioning**.
+The accepted initial model is **proactive targeted commissioning** (DEC-008).
 
 Possible sources:
 
@@ -155,6 +155,31 @@ Stronger outreach:
 The editor adds value by identifying the public argument, not merely by providing an upload form.
 
 After a successful publication, referral can become an acquisition channel: ask contributors who else is doing work that deserves a wider audience.
+
+The editorial team does more than discover possible contributors. It identifies an underdeveloped public question in substantive work and approaches a relevant author with a concrete invitation to write an original argument. This is an accepted principle; article length, response times, payment and workflow are not yet policy. The author's conclusions remain their own.
+
+### Comparative research and first commissioning test (2026-10-10)
+
+**Status: RESEARCH INPUT. Not approved pitches, invitations or publication commitments.**
+
+Three comparator models worth studying further:
+- **The Point:** philosophical and literary reconsideration of familiar experience;
+- **Works in Progress:** concrete causal/institutional mechanisms and visible evidentiary discipline;
+- **Boston Review:** organized intellectual disagreement and structured author responses.
+
+These exemplars are not an established market gap. The publication must demonstrate a distinct editorial contribution in its actual essays.
+
+Five pilot commissioning concepts were screened in conversation. The first three merit a fact-checked brief, *not* immediate outreach:
+
+| Working essay concept | Source research | Initial assessment |
+|---|---|---|
+| When the State Decides What Counts as Proof | [Sredanovic and Fargues, nationality paperwork](https://doi.org/10.1111/spol.13098) | Develop a brief; distinguish historic findings from current rules |
+| What If Loneliness Isn't About Being Alone? | [Mauri, social connectedness and loneliness](https://doi.org/10.1038/s41598-025-31650-6) | Develop a brief; preserve observational/causal distinction |
+| The History We Build Around Missing Documents | [Hagström Molin, archival absence](https://doi.org/10.1007/s10502-025-09494-w) | Develop a brief; avoid overgeneralizing from historical cases |
+| Can AI Teach Us Not to Trust AI? | Prior discussion of AI and critical-thinking intervention research | Reframe question; recheck bibliographic details before further work |
+| Your Political Opponents Are More Moral Than You Think | Prior discussion of moral misperception/polarization research | Reject the current predictable pitch, not the research or author |
+
+Editorial lesson from this first pass: a sound study is not automatically a distinctive essay. Before any invitation, the brief must identify the original public question, the claim worth making, the strongest objection, key source limitations and what changes in the reader's understanding. An original commissioned essay must not be a repackaging of the source paper. Verify sources, author identity, topical currency and publication/rights boundaries before outreach.
 
 ---
 
