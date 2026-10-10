@@ -114,12 +114,32 @@ No outreach, paid commitment, Ghost merge or public announcement is authorised s
 
 **Status:** ACCEPTED.
 
+## DEC-011 - Twice-yearly issues, five essays and optional print
+
+**Decision (2026-10-10):** Adopt a recognisable editorial formula: **one issue, one theme, five original essays, twice a year**. A signed editor's introduction binds the five essays into an intellectual conversation and does not count as a sixth feature essay. Never publish weak filler merely to hit five items. The first date stays unannounced until the work is publication-ready.
+
+Original essays are free to read online. A **paid print-on-demand edition** of each completed issue will be available for readers. A complimentary printed copy for each external author is the intended offer, subject to verifying fulfilment and shipping. The actual print price, checkout, vendor, issue-production schedule, EUR 1,000 per-issue ceiling and EUR 200 per author are operational proposals pending quotes and formal author terms.
+
+**Status:** ACCEPTED for issue format, cadence and print principle; pricing and production remain OPEN.
+
+## DEC-012 - Clear, rebellious and light public site
+
+**Decision (2026-10-10):** Communicate immediately: this is a magazine; two issues a year; each issue has one central question and five independent essays; a paid print version is available after publication. Main navigation: **Current Issue / All Issues / Authors / About / Print**.
+
+Authors serves as both a real published-contributors directory and an introduction to the author-led editorial process for emerging researchers. The magazine is **intellectually rebellious, not visually gloomy**. The preferred site-wide design is warm off-white paper, almost-black typographic ink, a sharp lime accent and editorial print-inspired structure. Individual issue covers may vary within the common magazine visual system.
+
+Before authors or pieces are confirmed, **show a deliberate, honest empty state** rather than five invented article titles, false author profiles or fictitious past issues. Only accepted content appears as real contents. Clearly labelled generic demonstration data may be used in an offline prototype, never as purported real publication history.
+
+Editorial motto: *Question everything. Then make your case.* This does not imply provocation without evidence or constrain contributors' arguments. The masthead UNSETTLED remains a working name and is not approved by this decision.
+
+**Status:** ACCEPTED for communication priorities, information architecture and preferred visual direction; live deployment remains separately authorised.
+
 ## Open decisions — not yet accepted
 
 - publication name and domain;
 - exact one-sentence public positioning;
-- final section/navigation architecture;
-- launch cadence;
+- detailed page-routing implementation of the accepted five primary navigation sections;
+- first release date and production timetable within the accepted twice-yearly cadence;
 - pitch and draft decision service levels;
 - whether and when to enable open submissions alongside primary targeted commissioning;
 - contributor compensation policy;
