@@ -24,19 +24,33 @@ Build a serious English-language independent intellectual review in which the la
 - Nothing here changes the accepted direction to use Ghost for v1 if its separate prototype is validated. The static mock is design exploration only, **not** a replacement CMS.
 - Responsive preview and expandable pitch summaries are working; final accessibility audit, external browser testing and Ghost theme integration are still pending.
 
-## Issue 00: Five working feature slots (proposed mix: four external paid contributors and one founder essay)
+## Issue 00: an editorial invitation, not a prewritten table of contents
 
-**Unifying question:** What counts as access to rights, human connection, historical knowledge, technological success and patriotism? Each proposal asks the reader to reconsider a familiar measurement or category.
+**Provisional umbrella:** *What Counts?* asks what we recognise as evidence, belonging, knowledge, effective rights and political loyalty. The theme may evolve based on actual pitches. This is a proposed intellectual frame, not a mandatory five-topic template.
 
-| Proposed essay / territory | Working argument prompt (not prescribed answer) | Minimum originality test |
-|---|---|---|
-| **When an Appeal Becomes a Login** / public life, law | What makes a remedy truly accessible when using it requires access to the state's digital interface? | Beyond summarising Conseil d'État No. 508325 (2026): a new distinction or carefully sourced investigation of legal form versus practical usability. |
-| **The Number of People in Your Life** / psychology, society | How far do contact counts measure loneliness, and what changes when we account for preferred contact? | Explain causal/observational limits and develop a genuinely new, carefully bounded public argument. |
-| **The Archive That Isn't There** / history | How do presumed missing records shape the past historians believe they can reconstruct? | One verifiable historical case with specific archival evidence and competing interpretations. |
-| **The System Says Success** / AI and knowledge | What actually follows from a workflow completing successfully when epistemic validity is untested? | Independent author and argument, not a repackaging of the founder's earlier research. Concrete failure cases and counterexamples. |
-| **Terminal Patriotism** / political philosophy and war, **provisional founder feature** | What counts as patriotism when trust in the state fails but loyalty to homeland or comrades and a willingness to accept irreversible risk persist? | A newly authored public essay should define its conceptual claim, make rival explanations and war harms explicit, avoid celebrating sacrifice, and undergo an independent critical read. |
+**Provisional founder essay:** *Terminal Patriotism* (Ilias Konstantinidis), subject to the same original-essay and independent-review standards as external contributions.
 
-**The first issue is a working editorial collection, not a scheduled or fully funded issue.** Actual titles, authors, form, order, rights and content depend on pitches and editing. A strong pitch may displace a weak proposed slot. The founder's **Terminal Patriotism** feature is now the preferred candidate for the fifth slot, subject to normal editorial review; all four external slots remain uncommissioned.
+**Four external essays are a planning and budget target, not four vacancies with preassigned titles or predetermined arguments.** Prior ideas about digital legal rights, loneliness, archival silences and AI validity are useful search leads, not work orders. We can publish stronger, unexpected ideas if they arrive.
+
+### Author-led commissioning: revised process
+
+1. **Discover:** Find emerging researchers with compelling work, not people to perform a prewritten outline. Use AI for discovery but verify source materials and expertise.
+2. **Approach:** Invite a discussion, citing a specific original finding and an optional editorial question. Be transparent that this is a newly forming publication, not an established audience.
+3. **Pitch:** Invite the researcher to propose their own argument and evidence in 1–3 paragraphs. Do not demand substantial unpaid spec work.
+4. **Develop:** If interested, collaborate on a brief outline, objections, intended contribution, estimated word count and draft schedule. The working title and conclusion remain open until the argument earns them.
+5. **Commission:** Sign an agreed funded assignment only after the author and editor settle scope, EUR 200 proposed payment (subject to approval), deadlines, print/digital rights, copyediting, credit, attribution, free print-copy logistics and equitable partial payment if the publisher cancels substantial work.
+6. **Edit:** AI assists with structural suggestions and candidate factual checks; humans verify decisive claims, author approves their argument and editor approves publication.
+7. **Curate:** Assemble the print number from accepted original essays. Do not force a weak article to fill an empty slot.
+
+### Scheduling and reliability
+
+**Six-month publication cadence is an aspiration, not a guaranteed launch deadline.** With no contracted authors, the inaugural issue has no release date. An author receives an actual draft deadline only *after* agreeing on the pitch and outline. Expect multiple iterations and allow meaningful time; no false assurance that four newcomers will write to one fixed calendar.
+
+Track separate stages: qualified lead, conversation, author-originated pitch, agreed outline, written paid commission, manuscript received, editorially accepted, print-ready. Only accepted and print-ready content can support a launch date.
+
+**Do not contract more writers than the honorarium budget can pay.** Build a queue of uncommitted future prospects, not six paid assignments competing for four funded slots. Pay every commissioned writer according to the agreement, including fair cancellation treatment.
+
+If one contributor is delayed, adjust the issue's contents or date together with the author; optionally defer the piece to a subsequent collection. If three external essays are excellent but the fourth fails, a shorter edition or delayed issue is preferable to filler. Only announce a printed issue when material, rights, POD landed costs and a physical proof are ready.
 
 ### Founder contribution without creating a vanity publication
 
@@ -54,7 +68,7 @@ Build a serious English-language independent intellectual review in which the la
 - Check any existing submission, contractual exclusivity, publisher rights or planned scholarly/book first-publication conditions. Do not paste, export or quote the underlying private manuscript into this public repository.
 - Provisional essay length: approximately 2,000-2,800 words plus references, rather than compressing the entire theoretical monograph into a single text. Nothing yet commits a writing deadline.
 
-**Preferred model:** one genuinely original founder essay among five feature essays, plus a separate 1-2-page signed editor's letter explaining the editorial question. Four outside writers should occupy the remaining feature slots. The founder essay is identified transparently; being founder must not exempt it from the same source and argument checks as external submissions. Where feasible, obtain an external reader for that essay's most consequential claims.
+**Preferred model:** one original founder essay among a strong author-led selection, plus a separate 1-2-page signed editor's letter. Four outside essays are the funded target, but no themes or headlines are reserved in advance. Four outside writers should occupy the remaining feature slots. The founder essay is identified transparently; being founder must not exempt it from the same source and argument checks as external submissions. Where feasible, obtain an external reader for that essay's most consequential claims.
 
 Two founder feature essays out of six would occupy a third of the issue and undermine the launch's emerging-voices emphasis. Two founder pieces may still be reasonable if one is an editorial preface rather than a second feature, or if there are materially more than six genuinely independent features.
 
@@ -62,7 +76,7 @@ Existing founder research may inspire a new essay but rights, prior-publication 
 
 ## Financial, cadence and print proposal (2026-10-10, founder review pending)
 
-**Funding envelope under discussion:** EUR 1,000 per issue, up to two issues per year (one every six months). That implies a maximum planned discretionary budget of EUR 2,000/year before any sales. *Semiannual* (Spring/Autumn) is a practical target, not a date commitment; launch when the editorial portfolio is ready. Online publication between issues can continue without creating an extra print schedule. "Issue 00" is the current prototype label; public numbering as Issue 01 versus Issue 00 remains a design choice.
+**Funding envelope under discussion:** EUR 1,000 per issue, up to two issues per year (one every six months). That implies a maximum planned discretionary budget of EUR 2,000/year before any sales. *Semiannual* (Spring/Autumn) is a tentative planning rhythm, not a public date commitment; launch only when the manuscript portfolio is accepted and the print proof has been checked. Online publication between issues can continue without creating an extra print schedule. "Issue 00" is the current prototype label; public numbering as Issue 01 versus Issue 00 remains a design choice.
 
 **Possible honorarium:** EUR 200 for each commissioned external essay, targeted around 1,500-2,500 words with bounded revisions. It is a modest experimental honorarium, not a claim to a professional market rate for investigative reporting. Set the exact scope, payment milestone, credit, rights, reprint permissions and cancellation treatment before outreach. Founder feature receives no fee.
 
@@ -120,7 +134,7 @@ The phrase 'spam campaign' is shorthand here for **proactive recruitment at scal
 | Stage | Initial scope |
 |---|---|
 | Source prospects | 30 verified early-career researchers across the five territories |
-| Write tailored commissions | 10 individually researched briefs |
+| Prepare tailored invitations | 10 verified author-research notes and open questions, not predetermined essay titles |
 | First outreach batch | 5 invitations, only after explicit founder approval and author terms |
 | One polite follow-up | Only if appropriate; stop on decline, no reply after follow-up or opt-out |
 | Review | Track actual response, interest, writing feasibility and reasons for decline |
@@ -161,4 +175,4 @@ Not total emails sent. We want a shortlist that produces real interest, original
 6. Is the founder's place one original feature plus an editor's letter, rather than two feature slots?
 7. After a non-fiction sample and live site identity are ready, when may the first 5 tailored invitations be sent?
 
-**Next bounded task:** Founder conceptually approves or revises the provisional *Terminal Patriotism* feature as part of *What Counts?*. Then develop a private, short English outline from the source manuscript (do not upload the manuscript to this public repo), arrange critical outside review and source a set of 30 emerging-researcher candidates for four paid outside slots. No outreach before approval of author terms and invitations.
+**Next bounded task:** Review the author-led commissioning model. Keep the *Terminal Patriotism* work private while developing an original English outline and seeking critical independent review. Find 30 emerging researchers with compelling work, not fixed topical vacancies; prepare 10 invitation concepts and seek explicit approval before any contact.
