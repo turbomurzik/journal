@@ -214,6 +214,19 @@ This remains an **open decision**.
 
 ## 10. AI policy
 
+**Accepted internal operating principle (DEC-009):** AI will assist the editorial team with research discovery, preliminary screening, potential contributor identification, editorial question development, drafting of invitation briefs, structural feedback, and flagging potential factual or citation problems for independent verification. The purpose is to support a small team without abandoning real authorship, editorial judgment or responsibility.
+
+A practical first-pass workflow to test (not yet implemented or approved as an automated system):
+
+1. Scout a bounded pool of recent research, essays and field reports; record original source URLs/identifiers.
+2. Have AI cluster topics, summarize claims and propose editorial questions with explicit uncertainty markers.
+3. Human editor shortlists; AI develops evidence maps, opposing arguments and proposed commissioning briefs.
+4. Human editor checks the original sources, selects author and angle, and explicitly approves any invitation.
+5. Author produces an original text; AI assists with editorial comments, clarity, structure and candidate verification checks.
+6. Human editor verifies consequential claims and quoted/cited material against real sources, resolves substantive objections with the author, and explicitly approves publication.
+
+A model-generated citation or unsupported factual claim is never accepted as verification. No automatic external outreach or publication. The final tooling and cost model remain open.
+
 The publication should not adopt categorical AI prohibitions merely as a prestige signal. Nor should authors be allowed to outsource authorship, factual responsibility or judgment to a model.
 
 A future policy should distinguish among:

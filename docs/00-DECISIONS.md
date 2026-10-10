@@ -80,6 +80,20 @@ This decision does not set commissioning volume, contributor fees, pitch-respons
 
 **Status:** ACCEPTED.
 
+## DEC-009 - AI-assisted editorial operations
+
+**Decision (2026-10-10):** The magazine will use AI tools as a core part of its internal editorial operation to reduce repetitive work and make a small human editorial team viable.
+
+Eligible assistance includes finding and screening relevant research, organizing potential contributors, extracting and cross-referencing source claims, generating alternative editorial angles and draft commissioning briefs, organizing draft feedback, suggesting structural and language edits, and proposing claims or citations for human verification.
+
+AI output is provisional working material, not evidence, editorial judgment, an independent source, or a publication-ready fact check. The editor remains responsible for commissioning choices, intellectual direction, source and claims verification proportionate to risk, author treatment, and final publication approval. Authors remain responsible for their own arguments and attributed work.
+
+No automatic outreach, commitments to contributors, or publication without explicit human authorization. Maintain a clear distinction between internal AI-assisted editorial work and the still-open public policy concerning contributors' AI use, disclosure and attribution.
+
+This decision sets a capability principle, **not** a specific software stack, autonomous agent architecture, budget, AI authorship policy, or implementation schedule.
+
+**Status:** ACCEPTED.
+
 ## Open decisions — not yet accepted
 
 - publication name and domain;
@@ -89,7 +103,8 @@ This decision does not set commissioning volume, contributor fees, pitch-respons
 - pitch and draft decision service levels;
 - whether and when to enable open submissions alongside primary targeted commissioning;
 - contributor compensation policy;
-- final AI-use/disclosure policy;
+- final contributor AI-use/disclosure and attribution policy;
+- implementation details and cost controls for AI-assisted editorial workflows;
 - commissioning workflow and editorial pipeline;
 - legal entity/ownership structure;
 - corrections, conflicts and editorial-independence policies;

@@ -17,6 +17,7 @@ Editorial concept formation before naming, platform build or contributor outreac
 - External contributors are structurally important to the publication's identity.
 - The publication should be intellectually challenging without treating provocation as sufficient.
 - Proactive targeted commissioning is the primary launch contributor model (DEC-008); editors identify research-based public questions and invite original essays from external authors.
+- AI-assisted internal editorial operations are accepted in principle (DEC-009), with human approval for outreach and publication, and human responsibility for consequential editorial judgments.
 
 See `docs/00-DECISIONS.md` for accepted decisions.
 
@@ -28,7 +29,7 @@ See `docs/00-DECISIONS.md` for accepted decisions.
 
 Turn the editorial concept and newly accepted commissioning model into a distinctive, testable publication identity.
 
-Comparator research and a first five-concept commissioning exercise were completed as research input, not as approved author invitations.
+Comparator research and a first five-concept commissioning exercise were completed as research input, not as approved author invitations. The AI-assisted editorial operating principle is accepted, but no automation has been implemented or validated.
 
 Current editorial order:
 1. Verify and develop commissioning briefs for the three provisional research leads in the canonical research baseline;
@@ -45,8 +46,8 @@ Current editorial order:
 - CMS and newsletter tooling;
 - monetization implementation;
 - legal entity design;
-- automated editorial workflows.
+- automated editorial workflow implementation (design may be tested without deployment).
 
 ## Next authorized step
 
-Prepare one evidence-checked pilot commissioning brief from the provisional shortlist, with no external outreach yet. Naming and positioning remain open; do not treat the Ghost prototype as a public launch.
+Prepare one evidence-checked pilot commissioning brief using AI for research organization and draft analysis, then verify essential claims against primary sources and review it as editor; no external outreach yet. Naming and positioning remain open; do not treat the Ghost prototype as a public launch.
