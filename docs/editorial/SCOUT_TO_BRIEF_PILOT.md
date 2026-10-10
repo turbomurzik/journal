@@ -183,13 +183,41 @@ For this revised question, prioritize a researcher of **digital administrative l
 
 ### Editorial gate result
 
-**GO TO AUTHOR-FIT RESEARCH / BRIEF REFINEMENT. NOT GO TO OUTREACH.**
+**AUTHOR-FIT RESEARCH PERFORMED; SHORTLIST UNDER EDITORIAL REVIEW. NOT GO TO OUTREACH.**
 
 Reason: a *real, recent, fully cited legal dispute* exists; this solves the immediate evidence gap for a bounded intellectual essay. It does **not** demonstrate unique editorial contribution or practical case frequency by itself. Before invitation, a qualified prospective author should be evaluated for independent analysis beyond summarizing the judicial decision, and terms must be settled separately.
 
 No email, commitment, publication or agent service has been initiated.
 
-## 7. Test outcome and measured limitations
+## 7. Candidate author fit: five evidence-backed prospects (2026-10-10)
+
+**Status: RESEARCH INPUT / INTERNAL SHORTLIST. No outreach authorized or performed.** Ranking reflects fit with the narrow *appeal-via-portal* editorial question, **not** predicted response rate, writing ability in English, openness to commissions, payment expectations or availability. These remain unknown.
+
+| Candidate / current affiliation evidence | Research or publication evidence | Possible contribution | Main limitation / readiness |
+|---|---|---|---|
+| **1. Serge Slama**, public-law professor, Université Grenoble Alpes ([2026 French National Assembly hearing](https://www.assemblee-nationale.fr/dyn/docs/CRCANR5L17S2026PO877518N012.raw)) | Co-authored with Véronique Champeil-Desplats **"L'administration numérique des étrangers ne répond plus": des vies en suspens**, *AJDA*, 2024, no. 42, p. 2241 ([university publications record](https://univ-droit.fr/universitaires/5841-slama-serge)). The piece explicitly discusses ANEF, residence-document bottlenecks and naturalisation digitalisation. | Assess the interface between digital migrant administration, actual access to procedure and judicial redress. | The cited evidence is largely about residence permits and administrative access, not the particular 2025-2026 online *naturalisation administrative appeal*. Confirm competence/current evidence on that exact remedy before proposing a headline. |
+| **2. Véronique Champeil-Desplats**, public-law professor, Université Paris Nanterre ([faculty profile](https://www.parisnanterre.fr/mme-veronique-champeil-desplats)) | Co-author of the 2024 AJDA paper with Slama; independent work on effectiveness of fundamental rights, legal concepts and legal reasoning; latest verified university profile updated July 2026. | Develop the conceptual test: when is a right genuinely effective if its exercise depends on an interface, exceptions and evidentiary burdens? | Significant high-level institutional roles may constrain availability; do not assume willingness or propose a doctrinal conclusion in advance. |
+| **3. Pascale Idoux**, public-law professor, Université de Montpellier; director of CREAM ([research centre](https://cream.edu.umontpellier.fr/enseignants-chercheurs/)) | **"L'ambivalence du développement des téléservices: de nouveaux services publics ou des services publics numérisés ?"** *Revue du droit public*, 2020, pp. 1145-1171 ([article](https://droit.cairn.info/revue-revue-du-droit-public-2020-5-page-1145?lang=fr)). | Examine whether changing a service's delivery channel transforms the legal or practical character of the underlying administrative service. | Published starting point is 2020 and not specific to naturalisation appeals; check her current engagement with this precise question. |
+| **4. Bénédicte Delaunay**, professor emerita of public law, Université de Tours ([university profile](https://www.univ-tours.fr/annuaire/benedicte-delaunay)) | **"La dématérialisation des relations entre le public et l'Administration: quel encadrement juridique ?"** *Revue du droit public*, 2020, pp. 1131-1144 ([article](https://droit.cairn.info/revue-revue-du-droit-public-2020-5-page-1131?lang=fr)); administrative-procedure publication noted again in 2026 ([faculty notice](https://droit.univ-tours.fr/version-francaise/un-an-de-droit-de-la-procedure-administrative-2)). | Clarify administrative procedure, guarantees, notice and admissibility, and the differences between abstract access rights and practicable legal remedies. | Not shown to have worked on Conseil d'État No. 508325 itself; emerita status says nothing about current time or commissioning interest. |
+| **5. Nadia Okbani**, political scientist working on digital welfare administration and access to rights ([CNRS-affiliated research unit profile](https://utopi.cnrs.fr/membre/cv-nadia-okbani/)) | Her research programme covers digital administrative journeys, non-take-up of rights and frontline service provision; an active 2024-2026 project concerns access to digitised social rights. Earlier article on digitalisation and inequalities ([research profile](https://utopi.cnrs.fr/membre/cv-nadia-okbani/)). | Provide original empirical insight on what happens at the real-world handoff between a digital channel, a service user and available assistance. Could add an evidence-based complementary perspective. | **Not** a specialist in French naturalisation appeal law on the evidence reviewed. Prefer a separate research essay or expert conversation, not sole doctrinal author of this case. |
+
+### Shortlist assessment
+
+- **Best legally relevant initial pair for *exploring fit*, not yet invitation:** Slama and Champeil-Desplats, individually or jointly if they choose. Their previous collaboration is evidence of overlapping intellectual interests, **not** agreement to write for us.
+- **Strong alternative if reframed around administrative-service design:** Idoux.
+- **Procedural law depth:** Delaunay.
+- **Complementary fieldwork perspective, not interchangeable legal expertise:** Okbani.
+- All five are established researchers. This is a topical-fit shortlist, **not yet a launch portfolio**. Before real outreach, test less-established researchers and the practical incentives for writing an English essay for a new publication without a confirmed honorarium or audience.
+- English-language writing samples, permissions/availability, conflict-of-interest considerations, specific up-to-date analysis of judgment No. 508325, and contact route have **not** been verified. Public institutional directory addresses may exist; do not infer permission for unsolicited bulk email.
+- No claims about probability of acceptance, responsiveness or prestige effects.
+
+### Specific editorial test for the leading candidates
+
+Ask whether the author could contribute **something beyond summarising the 10 August 2026 judgment**: e.g. a fresh distinction between admissibility, technical impossibility, and demonstrable access to administrative redress, tested against both legal text and real administrative implementation. If this original contribution is absent, the brief should be rejected or reframed even if the author is famous.
+
+**Current gate:** SHORTLIST FOUND -> HOLD FOR EDITOR CHOICE, ORIGINALITY TEST AND TERMS. **No invitations were sent.**
+
+## 8. Test outcome and measured limitations
 
 - **Primary-source identification:** PASS (publisher page and DOI, bibliographic metadata verified).
 - **Method/period recognition:** PASS (qualitative study, fieldwork 2016-2018, changes in procedures acknowledged).
@@ -203,6 +231,6 @@ No email, commitment, publication or agent service has been initiated.
 - **Monetary or API cost:** No incremental external model API or infrastructure spend in this pilot; this does not estimate normal model, editorial or verification costs.
 - **Automated repeatability:** NOT IMPLEMENTED or tested. A human/AI pair can repeat the six steps using this document.
 
-## 8. Next gate
+## 9. Next gate
 
-Identify and evaluate possible authors with proven expertise in French administrative procedure and digital access to remedies. Ask whether one could produce a distinctive, original essay that moves beyond a case report and respects the counterarguments. Research their suitability but **do not contact anyone without a separate explicit instruction**. Then repeat the manual workflow on another discipline before committing to automation.
+Human editor chooses whether any of the five is a plausible prospective author or prefers a further search for less-established researchers; verify the fit to the specific 2026 appeal decision, attainable original essay, English-language authorship and prospective commissioning conditions before preparing an invitation. **No contact without an explicit separate instruction.** Repeat the manual workflow in a different discipline (provisional option: loneliness research) before software automation.
