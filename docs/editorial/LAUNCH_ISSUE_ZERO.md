@@ -18,11 +18,11 @@ Build a serious English-language independent intellectual review in which the la
 
 - **Prototype masthead:** UNSETTLED (working placeholder; availability, trademark, domain, cultural fit and final naming have NOT been checked).
 - **Issue theme:** THE UNCOUNTED (DEC-010, accepted); issue numbering 00/01 remains provisional.
-- **Visual direction:** Print-derived typography, bold black/off-white masthead, deep charcoal editorial cover, sharp acid-lime highlights, structured modular stories and prominent contributor proposition.
+- **Visual direction being tested:** Magazine-grade typography and consistent masthead, with a dark charcoal/oxblood inaugural cover, muted copper and warm ivory (no bright lime). Each future issue may have its own palette and artwork within the same recognisable editorial grid.
 - **Prototype file:** `prototype/issue-zero/index.html` (standalone HTML/CSS/JS, no backend or data collection).
 - The prototype intentionally uses *editorial concepts* rather than fabricated published articles or fictional contributors.
 - Nothing here changes the accepted direction to use Ghost for v1 if its separate prototype is validated. The static mock is design exploration only, **not** a replacement CMS.
-- Responsive preview and expandable pitch summaries are working; final accessibility audit, external browser testing and Ghost theme integration are still pending.
+- Darker responsive redesign now includes offline navigation among the cover, a demo archive, issue landing, essay template and editorial method. The previous four article-like question cards have been removed. Ghost integration and full accessibility validation remain pending.
 
 ## Issue 00: an editorial invitation, not a prewritten table of contents
 
@@ -113,6 +113,20 @@ Existing founder research may inspire a new essay but rights, prior-publication 
 **Publication/contract guardrails:** external authors keep credit and copyright subject to agreed licence; publisher needs clearly written permission for online and POD print editions; set fair terms on first publication, archive, translation, revisions, takedowns and reuse. Confirm tax/payment arrangements before promising cash. These clauses are directions for drafting author terms, not yet legal agreements.
 
 
+## Website information architecture and archive prototype (2026-10-10)
+
+**Status: ACTIVE DESIGN STUDY, not an additional canonical decision.** DEC-010 is authoritative for thematic issues and authorial independence. The web navigation below is proposed for review, not a deployed feature.
+
+- **Issue theme vs article title:** A single open question holds the issue together, but authors may choose assertive, descriptive or interrogative essay titles. *Terminal Patriotism* is a working founder essay title, not a rule or mandatory article style. The other four external slots are visibly **unfilled**. Prospecting topics belong in editorial planning, not article-shaped cards.
+- **Visual palette:** The Uncounted uses charcoal, oxblood, dusty rose/copper and warm ivory. Subsequent issue covers may have independently chosen restricted palettes while retaining the magazine masthead, typography and layout grammar.
+- **Issue archive:** The current-issue cover leads to the issue page; `All issues` lists real published issues (newest first) and clearly distinguishes any in-preparation collection. Each cover opens a permanent issue page; its finished table of contents links to durable full-text essay pages; every essay links back to its issue and to the archive. On publication an issue becomes a real archive entry without changing links. A future Ghost implementation should use human-readable permanent URLs and redirects.
+- **Suggested future routes:** `/` (current issue), `/issues/` (archive), `/issues/{issue-slug}/` (issue page), `/essays/{essay-slug}/` (reader), `/about/` (editorial policy). The single-file prototype emulates them using hash routes `#home`, `#issues`, `#issue/uncounted`, `#article/terminal-patriotism`, `#about`.
+- **Fictional examples:** Two future/back-issue **design demonstrations** (*The Measured Life*, *The Quiet Record*) show contrasting cover palettes and clickable archive/reader mechanics. They are explicitly labelled `FICTIONAL` and `NOT PUBLISHED`, and are not an accepted issue plan or an invented publication history. Real back issues: **zero**.
+- **Article reader:** An approved published article would display real text, byline, date, sources, corrections and issue membership. The current article reader is labelled a concept/template, with no private founder manuscript or fabricated scholarly copy.
+- **Production boundary:** Ghost v1 remains a separate unmerged PR #1. No live routing, CMS integration, automatic outbound contacts, mailing list, POD checkout or published article is implemented by this standalone mock. Check issue taxonomy, stable linking, metadata, redirects, mobile keyboard access and print proof before shipping.
+
+**Smoke-tested locally:** Chromium desktop 1440 px and mobile 390/320 px, archive-to-issue-to-reader-and-back path, no script errors and no horizontal scrolling in tested widths. This is a prototype validation, not a production QA signoff.
+
 ## Minimum viable launch
 
 Do not launch with an empty site and pretend it is a mature publication.
@@ -181,4 +195,4 @@ Not total emails sent. We want a shortlist that produces real interest, original
 6. Is the founder's place one original feature plus an editor's letter, rather than two feature slots?
 7. After a non-fiction sample and live site identity are ready, when may the first 5 tailored invitations be sent?
 
-**Next bounded task:** Apply the accepted theme *THE UNCOUNTED* to the author-led discovery process without assigning topics or deadlines in advance. Keep the *Terminal Patriotism* manuscript private while preparing an independently reviewed original essay. Research 30 emerging scholars; prepare 10 personalised invitations for editorial approval. No actual outreach before separate explicit authorization.
+**Next bounded task:** Review the dark cover and interactive archive/issue/essay information architecture. After approving the visual direction and compensation/contact terms, apply the accepted theme *THE UNCOUNTED* to author-led discovery without prescribing headlines. Keep the *Terminal Patriotism* manuscript private while preparing an independently reviewed original essay. Research 30 emerging scholars; prepare 10 personalised invitations for editorial approval. No actual outreach before separate explicit authorization.

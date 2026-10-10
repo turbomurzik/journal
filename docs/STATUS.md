@@ -26,7 +26,7 @@ See `docs/00-DECISIONS.md` for the authoritative decisions.
 
 ## Current launch design work
 
-- Draft PR #2: `feature/issue-zero-launch-concept` contains the evolving commissioning/launch specification at `docs/editorial/LAUNCH_ISSUE_ZERO.md` and a standalone responsive prototype at `prototype/issue-zero/index.html`. They reflect accepted DEC-010 as an editorial draft and static visual exploration; neither is a launched website.
+- Draft PR #2: `feature/issue-zero-launch-concept` contains the evolving commissioning/launch specification at `docs/editorial/LAUNCH_ISSUE_ZERO.md` and a standalone responsive prototype at `prototype/issue-zero/index.html`. They reflect DEC-010. The revised branch mock demonstrates a dark inaugural cover and interactive current issue -> archive -> issue -> essay paths, with two clearly fictional mock back issues. This is not a launched website or a committed Ghost implementation.
 - Working *publication* masthead: `UNSETTLED` (unapproved, no name/domain/trademark clearance). **THE UNCOUNTED is the accepted first issue theme, not the publication title.**
 - Proposed founder feature: *Terminal Patriotism*, requiring original essay treatment and independent critical review; four outside author features are a funded target, not assigned articles or signed commissions.
 - Proposed economics: up to EUR 1,000 per issue, roughly twice yearly; EUR 200 honorarium per outside essay and complimentary POD copy. These remain **proposals** pending actual printing/shipping quotes, rights and author terms.
@@ -41,4 +41,4 @@ See `docs/00-DECISIONS.md` for the authoritative decisions.
 
 ## Next authorized step
 
-Bring PR #2 editorial specification and visual prototype into alignment with DEC-010. The first issue is **THE UNCOUNTED** and author slots remain unassigned. Once its author proposition and print budget are checked, prepare a source-grounded shortlist of emerging researchers for *individual review*. Do not send invitations, announce publication dates, commit funds or merge technical PRs without separate approval.
+Review the revised dark palette and issue archive mechanics in PR #2, then specify Ghost implementation in the still-unmerged technical PR #1. The first issue is **THE UNCOUNTED** and author slots remain unassigned. Once its author proposition and print budget are checked, prepare a source-grounded shortlist of emerging researchers for *individual review*. Do not send invitations, announce publication dates, commit funds or merge technical PRs without separate approval.
