@@ -48,15 +48,15 @@ This is currently an AI-assisted *manual* workflow: research discovery and synth
 
 | Candidate public question | Editorial value | Risk / decision |
 |---|---|---|
-| **A. When does the state decide a case before the case formally exists?** | Opens a tension between rights on paper, registration, discretion and remedies. | **Preferred for one pilot brief**, subject to editor review. Historical evidence must be dated. |
+| **A. When does the state decide a case before the case formally exists?** | Opens a tension between rights on paper, registration, discretion and remedies. | **Not independently novel enough:** this is already a substantive finding in section 5 of the source paper. Retain as historical background, not the main original commission. |
 | B. Can a document ever be an objective proof of belonging? | Strong philosophical question, but less distinctive and risks becoming abstract. | Hold. |
 | C. What makes a document convincing to an official? | Interesting institutional variation, but could become a straightforward retelling of the source paper. | Hold. |
 
-**Provisional judgment:** GO TO EDITORIAL REVIEW, not GO TO OUTREACH.
+**Post-review judgment (2026-10-10):** ORIGINAL ANGLE NEEDS REVISION. Historical evidence is good; distinct original contribution is not yet proven. See section 5 for a candidate replacement. No outreach approval.
 
 ## 4. Pilot commissioning brief (internal, not yet sent)
 
-### Working headline
+### Initial working headline (not approved for outreach)
 **The Decision Before the Decision**
 
 ### Public question
@@ -96,18 +96,66 @@ First consider inviting the paper's authors, **Djordje Sredanovic and Émilien F
 ### Draft approach to a future invitation (concept only)
 The note should reference the authors' specific 2024/2025 paper, explain the proposed *new* intellectual question in two or three sentences, make clear that the magazine is a new independent publication, describe the intended editorial support without exaggerating current reach, and ask whether they would like to discuss an original essay. **Not prepared for sending; no outreach approved.**
 
-## 5. Test outcome and measured limitations
+## 5. Adversarial editorial review (2026-10-10)
+
+**Outcome: REVISE, do not invite on the original brief.** An attractive title is not evidence of an original commission.
+
+### What passed
+
+- Original Wiley text, DOI, bibliographic date and qualitative research frame are confirmed, including the fieldwork period 2016-2018 (source sections 4-5).
+- The paper reports Belgian verbal refusals at municipal registers and counter-stage refusals in some studied French prefectures (section 5). These phenomena matter for visibility, appeal and administrative measurement.
+- The essay's conceptual distinction between eligibility, registration/access, recorded decision and opportunity to challenge is potentially valuable to non-specialists.
+
+### Material defects in the initial brief
+
+1. **Originality failure.** The paper already discusses gatekeeping before registration and the difficulty of observing unrecorded refusals (section 5). "The Decision Before the Decision" as currently outlined would be a repackaging, not the new intellectual contribution DEC-008 requires.
+2. **Risk of flattening three different systems.** Belgian municipal document checks were compulsory; the historical British Nationality Checking Service was optional and mainly advisory, and formally ended by 2019; French counter-stage practice depended on procedure and prefecture. Do not imply all three countries had the same state denial mechanism (source section 5).
+3. **Rights overstatement.** A right to submit, a statutory entitlement to nationality, discretionary naturalisation, an appealable final refusal, and a procedural opportunity to request review are distinct. Do not assert a uniform general legal right to a merits hearing or appeal in all three systems.
+4. **Historical-to-current gap.** French online naturalisation submission expanded in 2023, and UK applications increasingly use digital submission and document upload. The ethnographic observations do not describe present-day digital gatekeeping.
+5. **No evidence for the larger proposed conclusion.** The statement that digitisation hides refusals would be an untested hypothesis; a digital portal might instead improve records, reduce discretion or create clear application timestamps. An original essay must distinguish these competing possibilities.
+
+### Replacement exploration, not a settled commission
+
+**Working question:** *Does Digital Bureaucracy Make Rejection More Accountable, or Simply Less Visible?*
+
+**Reason to try it:** This could connect the documented historical problem of unregistered gatekeeping with a genuinely new empirical and conceptual issue: whether digital intake changes the observability and contestability of administrative filtering.
+
+**The answer is unknown.** The title must not presuppose that digitalisation worsens rights protection. A credible writer must be free to find the opposite, a mixed result or an indeterminate one.
+
+**Primary contemporary context checked on 2026-10-10:**
+
+- [French Interior Ministry: procedures for access to nationality](https://www.immigration.interieur.gouv.fr/devenir-francais/procedures-dacces-a-nationalite-francaise). The ministry describes online filing for naturalisation by decree, requests to complete a dossier, closure when additions are not provided, and a distinct paper-based declaration procedure. This page also contains older informational material; date/check any individual legal rule before publication.
+- [UK Government: citizenship applications after settlement](https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain/how-to-apply) and [UKVCAS](https://www.gov.uk/ukvcas). These describe online application and supporting-document upload/biometrics, but do not establish the frequency or reviewability of digital-stage refusals.
+
+**Required new evidence before an original argumentative commission:**
+
+- Identify *one bounded 2026 administrative journey*, preferably French naturalisation by decree, rather than promising a fully up-to-date three-country comparative study.
+- Describe what event legally/procedurally counts as starting an application, how requests for missing documents are recorded, and what happens if the portal or officer declines a filing.
+- Find independently checkable official rules or service material on receipts, status histories, notice and challenge routes. Where rules and practice differ, seek newly documented observations from a qualified researcher, lawyer, civil-society organisation or other reliable source. Do not fabricate a representative case.
+- Check the strongest favourable case for digital systems: date-stamped records, audit trails, standardized criteria, less informal discretion and accessible redress.
+- Avoid claiming empirical prevalence, systemic illegality or comparative legal equivalence without supporting data.
+- If credible contemporary evidence cannot be gathered without substantial new research, **do not commission a sweeping 2026 claim**. A narrower, clearly historical essay is possible, but its original contribution would still need to be independently identified.
+
+**Proposed reader payoff:** The reader learns to ask *which step counts as an application, what is recorded at each step, and what can be challenged*. The historical study motivates those questions; fresh evidence must determine any modern answer.
+
+**Author fit:** Original researchers might be appropriate if they have continued work on digitized nationality administration; verify that first. An administrative-law specialist with fresh case material could be a better fit. Do not presume availability, compensation, original reporting capacity or willingness.
+
+**Gate:** HOLD FOR SOURCE/ORIGINALITY VALIDATION. Human editor must approve any future contact. No outreach has occurred.
+
+## 6. Test outcome and measured limitations
 
 - **Primary-source identification:** PASS (publisher page and DOI, bibliographic metadata verified).
 - **Method/period recognition:** PASS (qualitative study, fieldwork 2016-2018, changes in procedures acknowledged).
 - **AI-generated evidence map:** COMPLETED; source-backed observations manually cross-checked with publisher full text.
-- **Alternative editorial angles:** THREE drafted, one preferred provisionally.
-- **Internal commissioning brief:** COMPLETED as a pilot artefact, pending human editorial review.
+- **Alternative editorial angles:** THREE drafted; initial preferred angle failed distinctiveness review.
+- **Editorial adversarial review:** COMPLETED; historical material upheld, currentness and originality gaps identified.
+- **Revised angle:** PROPOSED ONLY; contemporary sources establish changed procedures but do not establish the effects of digital gatekeeping.
+- **Internal commissioning brief:** Initial draft completed but **not invitation-ready**. Further primary evidence and author-fit review required.
 - **Actual contributor interest:** UNKNOWN, no author approached.
 - **Editorial labor savings:** NOT MEASURED.
 - **Monetary or API cost:** No incremental external model API or infrastructure spend in this pilot; this does not estimate normal model, editorial or verification costs.
 - **Automated repeatability:** NOT IMPLEMENTED or tested. A human/AI pair can repeat the six steps using this document.
 
-## 6. Next gate
+## 7. Next gate
 
-Editor reviews the preferred question, originality and scope. If approved, prepare a concise invitation with clearly disclosed publication status and agreed prospective terms. **Do not send before an explicit separate outreach instruction.** Only after repeating the pilot with several different disciplines should the team decide whether any programmatic automation is justified.
+Research one bounded, current digital-intake case and identify what the original paper cannot answer; assess whether a new essay is genuinely warranted. Only after new evidence and a non-derivative claim survive editorial review should a concise invitation be prepared. **No outreach without an explicit separate instruction.** Repeat pilots across disciplines before building software.
