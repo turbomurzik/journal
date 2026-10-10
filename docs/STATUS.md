@@ -29,10 +29,10 @@ See `docs/00-DECISIONS.md` for accepted decisions.
 
 Turn the editorial concept and newly accepted commissioning model into a distinctive, testable publication identity.
 
-Comparator research and a first five-concept commissioning exercise were completed as research input, not as approved author invitations. The AI-assisted editorial operating principle is accepted, but no automation has been implemented or validated.
+Comparator research and a first five-concept commissioning exercise were completed as research input, not as approved author invitations. The AI-assisted editorial operating principle is accepted. A first manual Scout-to-Brief pilot has produced an evidence-checked draft brief; no automated workflow has been implemented or validated.
 
 Current editorial order:
-1. Verify and develop commissioning briefs for the three provisional research leads in the canonical research baseline;
+1. Review and decide on pilot brief 01 in `docs/editorial/SCOUT_TO_BRIEF_PILOT.md`, then validate additional candidate briefs if useful;
 2. clarify what distinct editorial contribution each proposed essay would make;
 3. refine naming territory and the one-sentence public position;
 4. define sections/content architecture and the first launch package;
@@ -50,4 +50,4 @@ Current editorial order:
 
 ## Next authorized step
 
-Prepare one evidence-checked pilot commissioning brief using AI for research organization and draft analysis, then verify essential claims against primary sources and review it as editor; no external outreach yet. Naming and positioning remain open; do not treat the Ghost prototype as a public launch.
+Review the completed Scout-to-Brief pilot in `docs/editorial/SCOUT_TO_BRIEF_PILOT.md` and either approve the question for a future invitation or request revisions. No external outreach yet. Naming and positioning remain open; do not treat the Ghost prototype as a public launch.
