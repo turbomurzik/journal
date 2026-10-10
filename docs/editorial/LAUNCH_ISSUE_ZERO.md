@@ -24,7 +24,7 @@ Build a serious English-language independent intellectual review in which the la
 - Nothing here changes the accepted direction to use Ghost for v1 if its separate prototype is validated. The static mock is design exploration only, **not** a replacement CMS.
 - Responsive preview and expandable pitch summaries are working; final accessibility audit, external browser testing and Ghost theme integration are still pending.
 
-## Issue 00: Five original commissions to pursue, no authors promised
+## Issue 00: Five working feature slots (proposed mix: four external paid contributors and one founder essay)
 
 **Unifying question:** What counts as evidence, connection, historical knowledge, technical success and productive work? Each proposal asks the reader to reconsider a familiar measurement or category.
 
@@ -36,7 +36,48 @@ Build a serious English-language independent intellectual review in which the la
 | **The System Says Success** / AI and knowledge | What actually follows from a workflow completing successfully when epistemic validity is untested? | Independent author and argument, not a repackaging of the founder's earlier research. Concrete failure cases and counterexamples. |
 | **The Price of Unpaid Time** / economics and social life | What do prevailing indicators capture or omit about care and household work? | Avoid the obvious 'unpaid work matters' thesis; articulate a surprising, evidenced limit of a particular measure and its alternative. |
 
-**The first issue is a working editorial collection, not a scheduled or funded issue.** Actual titles, authors, form, order, rights and content depend on pitches and editing. A strong pitch may displace a weak proposed slot.
+**The first issue is a working editorial collection, not a scheduled or fully funded issue.** Actual titles, authors, form, order, rights and content depend on pitches and editing. A strong pitch may displace a weak proposed slot. The five theme concepts above do not prescribe which one the founder writes or whether all five will survive.
+
+### Founder contribution without creating a vanity publication
+
+**Preferred model:** one genuinely original founder essay among five feature essays, plus a separate 1-2-page signed editor's letter explaining the editorial question. Four outside writers should occupy the remaining feature slots. The founder essay is identified transparently; being founder must not exempt it from the same source and argument checks as external submissions. Where feasible, obtain an external reader for that essay's most consequential claims.
+
+Two founder feature essays out of six would occupy a third of the issue and undermine the launch's emerging-voices emphasis. Two founder pieces may still be reasonable if one is an editorial preface rather than a second feature, or if there are materially more than six genuinely independent features.
+
+Existing founder research may inspire a new essay but rights, prior-publication restrictions, and originality must be assessed. Do not simply reproduce publisher-owned articles.
+
+## Financial, cadence and print proposal (2026-10-10, founder review pending)
+
+**Funding envelope under discussion:** EUR 1,000 per issue, up to two issues per year (one every six months). That implies a maximum planned discretionary budget of EUR 2,000/year before any sales. *Semiannual* (Spring/Autumn) is a practical target, not a date commitment; launch when the editorial portfolio is ready. Online publication between issues can continue without creating an extra print schedule. "Issue 00" is the current prototype label; public numbering as Issue 01 versus Issue 00 remains a design choice.
+
+**Possible honorarium:** EUR 200 for each commissioned external essay, targeted around 1,500-2,500 words with bounded revisions. It is a modest experimental honorarium, not a claim to a professional market rate for investigative reporting. Set the exact scope, payment milestone, credit, rights, reprint permissions and cancellation treatment before outreach. Founder feature receives no fee.
+
+| Planned line item per semiannual issue | Proposed allowance (EUR) |
+|---|---:|
+| Four commissioned external authors at EUR 200 | 800 |
+| Four complimentary print copies, each including shipping (EUR 30 allowance each) | 120 |
+| One advance print proof, including shipping | 40 |
+| Small contingency for extra shipping or proof corrections | 40 |
+| **Total maximum proposed envelope** | **1,000** |
+
+**Do not represent delivery allowances as printer quotes.** The EUR 30 per author copy and EUR 40 proof are planning ceilings only, highly dependent on destination, final specifications, VAT and shipping. A remote address or increased page count can break the budget. Verify all addresses and landed costs *before committing* to both honoraria and complimentary shipping. If costs exceed the envelope, revise specs or secure additional approval; do not silently make writers pay for promised free copies. The envelope excludes unpaid founder time, hosting, graphics rights, possible accounting/tax costs and additional research verification.
+
+### POD experiment, no inventory
+
+**Proposed object:** 64-80 pages, print-ready designed issue, 22 x 28 cm approximate (Blurb 8.5 x 11 in), full-colour premium softcover, perfect binding; digital archive accessible online. A buyer orders and pays print/distribution charges; the magazine does not warehouse stock.
+
+**Provider 1: Blurb Premium Magazine.** One-copy print-on-demand, ships to Cyprus and other supported countries, print-on-demand sales through its marketplace. Published magazine tariff: US$7 for 20 pages plus US$0.20 per additional page, so an 80-page print-only manufacturing estimate is US$19, approximately EUR 17 at the ECB 2026-10-09 reference rate, **excluding shipping, VAT, extra charges or future changes**. Magazine-page technical specs and final colour proofs require validation. Sources: https://ca.blurb.com/magazines/semi-gloss-cover ; https://support.blurb.com/hc/en-us/articles/207794346-Shipping-destinations-costs-and-delivery-times ; https://support.blurb.com/hc/en-us/articles/7607055286541-How-many-pages-can-my-book-have ; https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.eu.html .
+
+**Provider 2: Lulu.** Offers one-copy POD, a Lulu Bookstore listing and options for direct online sales. Authors' free copies can be purchased at manufacturing cost plus shipping, with one order per recipient address. Use an actual quoted country/address price before comparison. Sources: https://help.lulu.com/en/support/solutions/articles/64000255486-how-to-create-a-print-book ; https://help.lulu.com/en/support/solutions/articles/64000255307-shipping-the-basics .
+
+**Possible buyer retail price:** around EUR 24.90 *plus shipping* for planning, subject to print format, VAT, country of delivery, platform fees and target margin. No print sales, profits or break-even are forecast. A digital-first free public article plus optional paid physical artefact is an editorial choice, not a paywall.
+
+**Complimentary physical author copies:** every published external contributor is offered one copy free of both print and shipping charges. At least one publisher proof copy is ordered and visually inspected before buyer orders and author copies. No free copy is promised via outreach until verified affordable.
+
+**Serial identifier:** Cyprus Library offers an ISSN service to Cypriot or permanent-resident publishers, with the official service described as free and a response expected within a week: https://www.gov.cy/en/service/apply-for-issn/ . ISSNs identify serial titles; they do not constitute accreditation, copyright, or quality certification. Online and print editions may require distinct ISSNs under international ISSN rules, with POD nuance to confirm with Cyprus Library before applying. Final name must precede application: https://www.issn.org/understanding-the-issn/assignment-rules/issn-the-major-principles/ .
+
+**Publication/contract guardrails:** external authors keep credit and copyright subject to agreed licence; publisher needs clearly written permission for online and POD print editions; set fair terms on first publication, archive, translation, revisions, takedowns and reuse. Confirm tax/payment arrangements before promising cash. These clauses are directions for drafting author terms, not yet legal agreements.
+
 
 ## Minimum viable launch
 
@@ -47,7 +88,7 @@ Do not launch with an empty site and pretend it is a mature publication.
 - Five strong author page drafts, reliable attribution/rights/corrections process, Ghost site validated before public launch.
 - One editorial owner responsible for final fact checking and approvals. AI can surface potential failures, never certify sources autonomously.
 - Do not display article cards as published until real authored, approved work exists.
-- No promises regarding author compensation, turnaround times, readership or exact publication date until decided and resourced.
+- No promises regarding exact author fees, turnaround times, readership, free print shipments or publication date until the founder accepts the funded budget and destination-specific fulfilment costs are verified.
 
 ## The outreach experiment: targeted, respectful, measurable
 
@@ -71,7 +112,7 @@ The phrase 'spam campaign' is shorthand here for **proactive recruitment at scal
 | Review | Track actual response, interest, writing feasibility and reasons for decline |
 | Continue | Adapt brief length, fees and contributor proposition before the next batch |
 
-**Why a person might respond:** We reference a specific finding, propose a question they haven't simply answered already, offer serious editing and a genuinely original bylined essay. We disclose we are new. We cannot promise reach, prestige, fees or audience until available. Consider even a small guaranteed honorarium, but do not advertise one before funding.
+**Why a person might respond:** We reference a specific finding, propose a question they haven't simply answered already, offer serious editing and a genuinely original bylined essay. We disclose we are new. We cannot promise reach, prestige or a large audience. A provisional EUR 200 external-author honorarium and one complimentary physical copy have been budgeted but must not appear in an invitation until the founder confirms the terms and destination-specific print shipping has been checked.
 
 **Human gate:** No batch-mailing, outreach automation, undisclosed model-generated personalisation, or messages sent in the founder's name without specific approval. Avoid scraped personal addresses and misleading claims of familiarity.
 
@@ -101,7 +142,9 @@ Not total emails sent. We want a shortlist that produces real interest, original
 1. Is the first collection's **WHAT COUNTS?** premise right?
 2. Does the visual direction and working name **UNSETTLED** deserve further exploration? The name is explicitly not fixed.
 3. Is the initial outreach cohort restricted to emerging voices as proposed?
-4. What is a realistic, guaranteed first-issue author fee, if any?
-5. After a non-fiction sample and live site identity are ready, when may the first 5 tailored invitations be sent?
+4. Confirm or amend the provisional EUR 200 honorarium, four paid outside feature slots, EUR 1,000 per semiannual issue and author copies.
+5. Are we printing through Blurb, Lulu or another EU-oriented provider after physical proof and delivered-cost quote?
+6. Is the founder's place one original feature plus an editor's letter, rather than two feature slots?
+7. After a non-fiction sample and live site identity are ready, when may the first 5 tailored invitations be sent?
 
 **Next bounded task:** Founder reviews the local/static prototype, chooses editorial direction, then prepares a sourced set of 30 emerging-researcher candidates and 10 fully individualized briefs for approval. No outreach before that gate.
