@@ -142,20 +142,67 @@ The note should reference the authors' specific 2024/2025 paper, explain the pro
 
 **Gate:** HOLD FOR SOURCE/ORIGINALITY VALIDATION. Human editor must approve any future contact. No outreach has occurred.
 
-## 6. Test outcome and measured limitations
+## 6. Bounded contemporary case: mandatory digital administrative appeal in France (2026-10-10)
+
+**Evidence status: PASS for the existence of a concrete contemporary legal and judicial dispute. NOT PASS for general claims about actual portal failure rates or outcomes.**
+
+### Narrow factual finding
+
+- France's Interior Ministry states that applications for naturalisation by decree are generally filed online via ANEF, with territorial exceptions, digital assistance and requests for missing documents. It distinguishes this process from nationality *declarations*, which currently follow different filing arrangements. [Official procedure](https://www.immigration.interieur.gouv.fr/devenir-francais/procedures-dacces-a-nationalite-francaise).
+- Decree 2025-648 of 15 July 2025 amended article 45 of Decree 93-1362: if a naturalisation/reintegration application was filed through the relevant electronic service, the *prior administrative appeal* against covered adverse decisions must use that same service; absent justified technical impossibility, a different channel may lead to inadmissibility. Article 45 makes that administrative appeal a prerequisite to court proceedings for the covered decisions, **except where the rule expressly excludes classement sans suite**. [Decree art. 10](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051900549) and [consolidated art. 45](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006285789/).
+- The French National Council of Bar Associations (Conseil national des barreaux) challenged the decree, arguing in particular that the portal requirement could disproportionately impair effective access to public services and remedies and lacked sufficient support/alternatives. **On 10 August 2026 the Conseil d'État, No. 508325, rejected the challenge**, holding that the underlying framework covers assistance and alternative access for justified technical barriers, and that treating applicants who used the portal differently for the appeal stage is not manifestly disproportionate to the goal of efficiency. This is a judicial rejection of a regulatory challenge, **not** a finding that every individual applicant always obtains a working appeal channel. [Full decision, paragraphs 2-7](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000054701872).
+- The current official Service Public guide, last checked 16 July 2026, directs online applicants to lodge the covered prior administrative appeal through the form in their personal notifications area within two months after notification, subject to justified technical impossibility; it separately describes access to administrative court afterward. [Service Public: naturalisation par décret](https://www.service-public.gouv.fr/particuliers/vosdroits/F2213).
+
+### Crucial separation of evidence
+
+This is a **naturalisation** case. Conseil d'État decisions of [5 May 2026, No. 502860](https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-05-05/502860) and [7 July 2026, No. 509812](https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-07-07/509812) address defective online access and substitutes for **residence-permit** applications through ANEF. They illustrate the broader design problem, but **do not prove defects or establish identical legal remedies in the naturalisation appeal workflow**.
+
+### New editorial angle: stronger, narrower
+
+**Working title:** *When the Right to Appeal Depends on the Interface*
+
+**Commissionable question, not a predetermined conclusion:** What makes a procedural remedy genuinely accessible when the authority mandates that citizens or applicants use the same digital channel for the initial application and for its administrative challenge?
+
+A serious author could distinguish:
+
+1. **Legal entitlement:** the formal availability of a remedy, deadlines and exceptions.
+2. **Technical reachability:** the ability to enter and submit an appeal through the specified user interface, especially after receiving an adverse decision.
+3. **Demonstrability:** timestamps, notification history, evidence of failed attempts and proof of justified technical impossibility.
+4. **Institutional contestability:** who decides if a technical exception applies and how that itself can be challenged.
+5. **Efficiency and inclusion:** the state's legitimate reasons to centralise cases, and the possible benefits of documented electronic workflows.
+
+**Not established:** system-wide prevalence of blocked appeals; that an electronic appeal is inherently less accessible than postal appeal; that the Conseil d'État held users have no remedy; that all applications or nationality procedures are identical; or that the source ethnography (2016-2018) describes present practice.
+
+### Strongest counterargument / viable conclusion space
+
+Mandatory online administrative appeals can improve traceability, reduce missing paperwork and provide a consistent case record. The French court found that the legal architecture provides assistance and substitutes for justified technical barriers. An original essay must take this seriously and investigate how law and design can make that guarantee testable, rather than assert that digitalisation inherently undermines it.
+
+### New author profile
+
+For this revised question, prioritize a researcher of **digital administrative law, procedural justice or e-government with French public-law competence**. The original paperwork researchers remain relevant for historical framing, but are not automatically the strongest choice for interpreting 2025-2026 litigation. No names or current contact details approved or checked.
+
+### Editorial gate result
+
+**GO TO AUTHOR-FIT RESEARCH / BRIEF REFINEMENT. NOT GO TO OUTREACH.**
+
+Reason: a *real, recent, fully cited legal dispute* exists; this solves the immediate evidence gap for a bounded intellectual essay. It does **not** demonstrate unique editorial contribution or practical case frequency by itself. Before invitation, a qualified prospective author should be evaluated for independent analysis beyond summarizing the judicial decision, and terms must be settled separately.
+
+No email, commitment, publication or agent service has been initiated.
+
+## 7. Test outcome and measured limitations
 
 - **Primary-source identification:** PASS (publisher page and DOI, bibliographic metadata verified).
 - **Method/period recognition:** PASS (qualitative study, fieldwork 2016-2018, changes in procedures acknowledged).
 - **AI-generated evidence map:** COMPLETED; source-backed observations manually cross-checked with publisher full text.
 - **Alternative editorial angles:** THREE drafted; initial preferred angle failed distinctiveness review.
 - **Editorial adversarial review:** COMPLETED; historical material upheld, currentness and originality gaps identified.
-- **Revised angle:** PROPOSED ONLY; contemporary sources establish changed procedures but do not establish the effects of digital gatekeeping.
-- **Internal commissioning brief:** Initial draft completed but **not invitation-ready**. Further primary evidence and author-fit review required.
+- **Revised angle:** BOUNDED legal dispute verified (2025 mandatory online administrative appeals; Conseil d'État decision No. 508325 dated 10 August 2026). Broad empirical claims about gatekeeping effects remain unsupported.
+- **Internal commissioning brief:** Revised conceptual direction has contemporary primary sources; **not invitation-ready** pending author-fit research and proof of a substantive contribution beyond case summary.
 - **Actual contributor interest:** UNKNOWN, no author approached.
 - **Editorial labor savings:** NOT MEASURED.
 - **Monetary or API cost:** No incremental external model API or infrastructure spend in this pilot; this does not estimate normal model, editorial or verification costs.
 - **Automated repeatability:** NOT IMPLEMENTED or tested. A human/AI pair can repeat the six steps using this document.
 
-## 7. Next gate
+## 8. Next gate
 
-Research one bounded, current digital-intake case and identify what the original paper cannot answer; assess whether a new essay is genuinely warranted. Only after new evidence and a non-derivative claim survive editorial review should a concise invitation be prepared. **No outreach without an explicit separate instruction.** Repeat pilots across disciplines before building software.
+Identify and evaluate possible authors with proven expertise in French administrative procedure and digital access to remedies. Ask whether one could produce a distinctive, original essay that moves beyond a case report and respects the counterarguments. Research their suitability but **do not contact anyone without a separate explicit instruction**. Then repeat the manual workflow on another discipline before committing to automation.
