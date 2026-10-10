@@ -17,6 +17,8 @@ Founding editorial model and debut thematic issue definition. No public launch o
 - AI assists internal research and editing, but substantive decisions, source verification and outreach require human authorization (DEC-009).
 - **Every issue has a single open intellectual question; contributors develop their own arguments and may dispute the editorial framing. An issue-level editorial introduction explicitly links and contrasts the essays (DEC-010).**
 - **Inaugural issue theme accepted: THE UNCOUNTED**, around what falls outside institutions' categories of recognition (DEC-010). Earlier proposed cover theme *What Counts?* is superseded.
+- **DEC-011 accepted:** exactly five original feature essays per themed issue, two issues yearly, distinct editorial introduction and optional paid print-on-demand.
+- **DEC-012 accepted:** visually light, intellectually rebellious site; navigation Current Issue / All Issues / Authors / About / Print; no fabricated article titles, author profiles or archive history.
 
 See `docs/00-DECISIONS.md` for the authoritative decisions.
 
@@ -29,7 +31,7 @@ See `docs/00-DECISIONS.md` for the authoritative decisions.
 - Draft PR #2: `feature/issue-zero-launch-concept` contains the evolving commissioning/launch specification at `docs/editorial/LAUNCH_ISSUE_ZERO.md` and a standalone responsive prototype at `prototype/issue-zero/index.html`. They must now reflect accepted DEC-010 before review or merge; neither is a launched website.
 - Working *publication* masthead: `UNSETTLED` (unapproved, no name/domain/trademark clearance). **THE UNCOUNTED is the accepted first issue theme, not the publication title.**
 - Proposed founder feature: *Terminal Patriotism*, requiring original essay treatment and independent critical review; four outside author features are a funded target, not assigned articles or signed commissions.
-- Proposed economics: up to EUR 1,000 per issue, roughly twice yearly; EUR 200 honorarium per outside essay and complimentary POD copy. These remain **proposals** pending actual printing/shipping quotes, rights and author terms.
+- Proposed economics: up to EUR 1,000 per issue and EUR 200 honorarium per outside essay. Two issues yearly and the five-feature format are accepted; payments, complimentary-copy shipping and vendor costs still require verification and agreements.
 - The first manual Scout-to-Brief experiment in `docs/editorial/SCOUT_TO_BRIEF_PILOT.md` remains research input; its candidate article titles are not the approved inaugural table of contents.
 
 ## Deferred / not active
@@ -41,4 +43,4 @@ See `docs/00-DECISIONS.md` for the authoritative decisions.
 
 ## Next authorized step
 
-Bring PR #2 editorial specification and visual prototype into alignment with DEC-010. The first issue is **THE UNCOUNTED** and author slots remain unassigned. Once its author proposition and print budget are checked, prepare a source-grounded shortlist of emerging researchers for *individual review*. Do not send invitations, announce publication dates, commit funds or merge technical PRs without separate approval.
+Bring PR #2 editorial specification and visual prototype into alignment with DEC-010, DEC-011 and DEC-012 using the tested light magazine design and real, unfilled prepublication contents. The first issue is **THE UNCOUNTED** and author slots remain unassigned. Once its author proposition and print budget are checked, prepare a source-grounded shortlist of emerging researchers for *individual review*. Do not send invitations, announce publication dates, commit funds or merge technical PRs without separate approval.
