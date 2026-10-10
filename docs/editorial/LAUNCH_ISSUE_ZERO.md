@@ -1,8 +1,8 @@
-# Issue 00 Launch Concept: WHAT COUNTS?
+# Inaugural Issue Launch Concept: THE UNCOUNTED
 
 **Status:** ACTIVE DRAFT / EDITORIAL AND VISUAL PROTOTYPE
 **Date:** 2026-10-10
-**Authority:** Proposal for founder review. Not an accepted publication name, live issue, author invitation, or public promise.
+**Authority:** Inaugural issue theme and issue-based editorial method ACCEPTED under DEC-010. Publication name, roster, format, costs and date remain draft and unauthorised for public launch.
 
 ## The thesis
 
@@ -17,7 +17,7 @@ Build a serious English-language independent intellectual review in which the la
 ## Brand direction / prototype
 
 - **Prototype masthead:** UNSETTLED (working placeholder; availability, trademark, domain, cultural fit and final naming have NOT been checked).
-- **Issue label:** ISSUE 00 / WHAT COUNTS?
+- **Issue theme:** THE UNCOUNTED (DEC-010, accepted); issue numbering 00/01 remains provisional.
 - **Visual direction:** Print-derived typography, bold black/off-white masthead, deep charcoal editorial cover, sharp acid-lime highlights, structured modular stories and prominent contributor proposition.
 - **Prototype file:** `prototype/issue-zero/index.html` (standalone HTML/CSS/JS, no backend or data collection).
 - The prototype intentionally uses *editorial concepts* rather than fabricated published articles or fictional contributors.
@@ -26,7 +26,13 @@ Build a serious English-language independent intellectual review in which the la
 
 ## Issue 00: an editorial invitation, not a prewritten table of contents
 
-**Provisional umbrella:** *What Counts?* asks what we recognise as evidence, belonging, knowledge, effective rights and political loyalty. The theme may evolve based on actual pitches. This is a proposed intellectual frame, not a mandatory five-topic template.
+**Accepted issue theme: THE UNCOUNTED (DEC-010).**
+
+> What happens when people, experiences, or realities fall outside the categories by which institutions recognise the world?
+
+This is an open intellectual question about recognition, institutional legibility, exclusion and the limits of categorisation. **It is not a demand to prove institutions inherently oppressive or classification necessarily bad.** A rigorous defence of a specific classification or standardisation practice is fully in scope. Authors are free to reject the editorial framing, and to reach unexpected conclusions.
+
+*What Counts?* is superseded as the debut issue title. THE UNCOUNTED is a theme of the first issue, not the title of the magazine. Thematic leads (rights and bureaucracies, historical records, psychology, AI and political representation) are **search directions only**, not assigned article titles, a disciplinary quota or a final table of contents.
 
 **Provisional founder essay:** *Terminal Patriotism* (Ilias Konstantinidis), subject to the same original-essay and independent-review standards as external contributions.
 
@@ -68,7 +74,7 @@ If one contributor is delayed, adjust the issue's contents or date together with
 - Check any existing submission, contractual exclusivity, publisher rights or planned scholarly/book first-publication conditions. Do not paste, export or quote the underlying private manuscript into this public repository.
 - Provisional essay length: approximately 2,000-2,800 words plus references, rather than compressing the entire theoretical monograph into a single text. Nothing yet commits a writing deadline.
 
-**Preferred model:** one original founder essay among a strong author-led selection, plus a separate 1-2-page signed editor's letter. Four outside essays are the funded target, but no themes or headlines are reserved in advance. Four outside writers should occupy the remaining feature slots. The founder essay is identified transparently; being founder must not exempt it from the same source and argument checks as external submissions. Where feasible, obtain an external reader for that essay's most consequential claims.
+**Preferred model:** one original founder essay plus a distinct signed 1-2-page **issue editorial essay** connecting the eventual articles, explaining the common question, identifying disagreements and unresolved issues. Four outside essays are the funded target, with no prespecified disciplines, titles or conclusions. The editorial introduction is not promotional text for the founder's article. The founder essay is identified transparently; being founder must not exempt it from the same source and argument checks as external submissions. Where feasible, obtain an external reader for that essay's most consequential claims.
 
 Two founder feature essays out of six would occupy a third of the issue and undermine the launch's emerging-voices emphasis. Two founder pieces may still be reasonable if one is an editorial preface rather than a second feature, or if there are materially more than six genuinely independent features.
 
@@ -123,7 +129,7 @@ Do not launch with an empty site and pretend it is a mature publication.
 The phrase 'spam campaign' is shorthand here for **proactive recruitment at scale**, *not* bulk unsolicited promotional email. The point is to find authors, not to get the domain filtered or make emerging researchers feel exploited.
 
 **Discovery / qualification:**
-1. Find research from the last ~3 years in the five territories, plus excellent earlier work if timely.
+1. Find research from roughly the past three years that offers original insight on recognition, evidence, exclusion, belonging or the need for institutions to classify; include worthwhile research outside these examples and earlier scholarship where relevant.
 2. Look for doctoral candidates, recently completed PhDs, postdocs and independent researchers based on public professional profiles or recent papers. Do **not** infer age or collect irrelevant personal information.
 3. Read the original abstract and at least the decisive methodology/argument. Cite the primary paper in each internal research card.
 4. Score editorial relevance, genuine original question, source availability, public readability and reason this author might benefit. Do not use prestige as a scoring input.
@@ -152,7 +158,7 @@ Hello [First name],
 
 I read your [paper/report, year], particularly your argument about [specific point]. It made me wonder about a slightly different public question: [one genuine question].
 
-I'm helping build a new independent English-language review focused on original arguments that reopen familiar assumptions. We're developing our first collection, *What Counts?*, and are looking especially for emerging researchers with ideas worth bringing to a wider intellectual readership.
+I'm helping build a new independent English-language review focused on original arguments that reopen familiar assumptions. We're developing our first thematic issue, *The Uncounted*, about how institutions recognise, overlook or categorise people, experience and evidence, and about whether those categories are justified. We're especially interested in emerging researchers who can bring their own original arguments, including arguments that challenge our framing.
 
 Would you be open to discussing a short original essay examining [precise angle]? We'd agree the scope and terms first, and the argument and conclusion would remain yours. We're a new publication, so I don't want to overstate our audience or status.
 
@@ -167,7 +173,7 @@ Not total emails sent. We want a shortlist that produces real interest, original
 
 ## Pending founder decisions
 
-1. Is the first collection's **WHAT COUNTS?** premise right?
+1. **Already accepted (DEC-010):** thematic issues led by an open question, and first issue theme *THE UNCOUNTED*. Actual manuscripts and roster remain open.
 2. Does the visual direction and working name **UNSETTLED** deserve further exploration? The name is explicitly not fixed.
 3. Is the initial outreach cohort restricted to emerging voices as proposed?
 4. Confirm or amend the provisional EUR 200 honorarium, four paid outside feature slots, EUR 1,000 per semiannual issue and author copies.
@@ -175,4 +181,4 @@ Not total emails sent. We want a shortlist that produces real interest, original
 6. Is the founder's place one original feature plus an editor's letter, rather than two feature slots?
 7. After a non-fiction sample and live site identity are ready, when may the first 5 tailored invitations be sent?
 
-**Next bounded task:** Review the author-led commissioning model. Keep the *Terminal Patriotism* work private while developing an original English outline and seeking critical independent review. Find 30 emerging researchers with compelling work, not fixed topical vacancies; prepare 10 invitation concepts and seek explicit approval before any contact.
+**Next bounded task:** Apply the accepted theme *THE UNCOUNTED* to the author-led discovery process without assigning topics or deadlines in advance. Keep the *Terminal Patriotism* manuscript private while preparing an independently reviewed original essay. Research 30 emerging scholars; prepare 10 personalised invitations for editorial approval. No actual outreach before separate explicit authorization.

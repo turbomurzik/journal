@@ -94,6 +94,26 @@ This decision sets a capability principle, **not** a specific software stack, au
 
 **Status:** ACCEPTED.
 
+## DEC-010 - Thematic, question-led issues and inaugural theme
+
+**Decision (2026-10-10):** Every curated issue of the magazine is built around **one central intellectual question**, explored by independent contributors with different disciplines, evidence and potentially conflicting conclusions. An issue should read as a coherent conversation, especially in its optional print-on-demand edition, not as a miscellaneous set of unrelated pieces.
+
+The issue theme is a **question, never a required conclusion**. The editorial team may frame a question and invite emerging researchers, but does not preassign feature titles, force a thesis or demand one contribution per discipline. Writers propose their own original argument, sources and boundaries; editor and writer then agree the scope and schedule before any funded commission. Strong unexpected submissions can shape the issue. A writer may challenge the very premise of the theme; counterarguments to the editorial framing are editorially welcome.
+
+The inaugural issue's **accepted thematic working title is `THE UNCOUNTED`**. The governing question is:
+
+> What happens when people, experiences, or realities fall outside the categories by which institutions recognise the world?
+
+This includes, without limiting the accepted contents to, questions about representation, belonging, archives, administrative recognition, psychology and technological classification. The issue must not presuppose that every form of categorisation or standardisation is harmful; arguments for fair or useful standardisation are in scope.
+
+Each issue opens with a **short signed editorial essay** explaining the common question, why these particular contributions belong together, where they disagree, and what remains unresolved. This essay is distinct from any regular founder feature.
+
+The previous proposed first-issue title `WHAT COUNTS?` is **superseded as the issue theme** (it may remain an informal question within editorial development, not the cover title). `THE UNCOUNTED` is the issue theme, **not an approved magazine name**. The working magazine masthead `UNSETTLED` is still unapproved. Exact public issue numbering (00/01), publication date, author contracts, article slate, contributor compensation, print vendor and release cadence remain open.
+
+No outreach, paid commitment, Ghost merge or public announcement is authorised solely by accepting this decision.
+
+**Status:** ACCEPTED.
+
 ## Open decisions — not yet accepted
 
 - publication name and domain;
@@ -111,5 +131,5 @@ This decision sets a capability principle, **not** a specific software stack, au
 - public website/platform stack;
 - newsletter stack;
 - first launch cohort of contributors;
-- launch issue/package;
+- inaugural issue's final author roster, manuscripts, print layout and release date;
 - monetization model and whether monetization is pursued at all in year one.
