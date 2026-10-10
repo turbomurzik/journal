@@ -26,7 +26,7 @@ Build a serious English-language independent intellectual review in which the la
 
 ## Issue 00: Five working feature slots (proposed mix: four external paid contributors and one founder essay)
 
-**Unifying question:** What counts as evidence, connection, historical knowledge, technical success and productive work? Each proposal asks the reader to reconsider a familiar measurement or category.
+**Unifying question:** What counts as access to rights, human connection, historical knowledge, technological success and patriotism? Each proposal asks the reader to reconsider a familiar measurement or category.
 
 | Proposed essay / territory | Working argument prompt (not prescribed answer) | Minimum originality test |
 |---|---|---|
@@ -34,11 +34,25 @@ Build a serious English-language independent intellectual review in which the la
 | **The Number of People in Your Life** / psychology, society | How far do contact counts measure loneliness, and what changes when we account for preferred contact? | Explain causal/observational limits and develop a genuinely new, carefully bounded public argument. |
 | **The Archive That Isn't There** / history | How do presumed missing records shape the past historians believe they can reconstruct? | One verifiable historical case with specific archival evidence and competing interpretations. |
 | **The System Says Success** / AI and knowledge | What actually follows from a workflow completing successfully when epistemic validity is untested? | Independent author and argument, not a repackaging of the founder's earlier research. Concrete failure cases and counterexamples. |
-| **The Price of Unpaid Time** / economics and social life | What do prevailing indicators capture or omit about care and household work? | Avoid the obvious 'unpaid work matters' thesis; articulate a surprising, evidenced limit of a particular measure and its alternative. |
+| **Terminal Patriotism** / political philosophy and war, **provisional founder feature** | What counts as patriotism when trust in the state fails but loyalty to homeland or comrades and a willingness to accept irreversible risk persist? | A newly authored public essay should define its conceptual claim, make rival explanations and war harms explicit, avoid celebrating sacrifice, and undergo an independent critical read. |
 
-**The first issue is a working editorial collection, not a scheduled or fully funded issue.** Actual titles, authors, form, order, rights and content depend on pitches and editing. A strong pitch may displace a weak proposed slot. The five theme concepts above do not prescribe which one the founder writes or whether all five will survive.
+**The first issue is a working editorial collection, not a scheduled or fully funded issue.** Actual titles, authors, form, order, rights and content depend on pitches and editing. A strong pitch may displace a weak proposed slot. The founder's **Terminal Patriotism** feature is now the preferred candidate for the fifth slot, subject to normal editorial review; all four external slots remain uncommissioned.
 
 ### Founder contribution without creating a vanity publication
+
+**Preferred founder essay for Issue 00:** *Terminal Patriotism* (possible subtitle: *When Loyalty Outlives Faith in the State*). This is a thematic choice, not yet an accepted manuscript, published text or approval to reveal a private research draft.
+
+**Public-facing intellectual question:** What does loyalty mean when institutional representation is experienced as hollow, loyalty to homeland or close comrades remains, and irreversible bodily risk is construed as an expression of political agency? The proposed essay may draw on the author's existing research, but must be a distinct, readable and well-evidenced public argument, not a pasted excerpt from a book-length manuscript.
+
+**Mandatory editorial counter-tests:**
+
+- State loyalty, homeland attachment, comradely obligation, nationalism, consent to war and acceptance of risk are different phenomena. Do not equate them.
+- "Terminal commitment" is an author-proposed interpretive category. Test it against more ordinary explanations such as coercion, economic incentives, institutional incentives, group bonding, ideological commitment and war-time fatalism. Do not universalise from an observed milieu to all Russian combatants.
+- Analyse the consequences of military participation, including violence against and suffering of Ukrainian civilians. Understanding participants is neither an endorsement of their actions nor a celebration of death.
+- Keep attributed testimony, source provenance and causal limits explicit. Private conversations, confidential confessions and personal trust are not research data for publication without voluntary informed permission.
+- Seek at least one independent, critically minded external reader for the founder piece; disclose **Founder & Editor** byline and apply the same accuracy, originality and fairness standards as for outside writers.
+- Check any existing submission, contractual exclusivity, publisher rights or planned scholarly/book first-publication conditions. Do not paste, export or quote the underlying private manuscript into this public repository.
+- Provisional essay length: approximately 2,000-2,800 words plus references, rather than compressing the entire theoretical monograph into a single text. Nothing yet commits a writing deadline.
 
 **Preferred model:** one genuinely original founder essay among five feature essays, plus a separate 1-2-page signed editor's letter explaining the editorial question. Four outside writers should occupy the remaining feature slots. The founder essay is identified transparently; being founder must not exempt it from the same source and argument checks as external submissions. Where feasible, obtain an external reader for that essay's most consequential claims.
 
@@ -147,4 +161,4 @@ Not total emails sent. We want a shortlist that produces real interest, original
 6. Is the founder's place one original feature plus an editor's letter, rather than two feature slots?
 7. After a non-fiction sample and live site identity are ready, when may the first 5 tailored invitations be sent?
 
-**Next bounded task:** Founder reviews the local/static prototype, chooses editorial direction, then prepares a sourced set of 30 emerging-researcher candidates and 10 fully individualized briefs for approval. No outreach before that gate.
+**Next bounded task:** Founder conceptually approves or revises the provisional *Terminal Patriotism* feature as part of *What Counts?*. Then develop a private, short English outline from the source manuscript (do not upload the manuscript to this public repo), arrange critical outside review and source a set of 30 emerging-researcher candidates for four paid outside slots. No outreach before approval of author terms and invitations.
