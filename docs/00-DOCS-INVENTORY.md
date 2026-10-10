@@ -16,6 +16,8 @@ This inventory is the registry of durable project documentation. A file being ne
 | `docs/00-DOCS-INVENTORY.md` | CANONICAL | Registry and status of durable docs. |
 | `docs/research/01-WHAT-THIS-JOURNAL-IS.md` | CANONICAL RESEARCH BASELINE | Current authoritative synthesis of the publication concept; subordinate to accepted decisions. |
 | `docs/editorial/SCOUT_TO_BRIEF_PILOT.md` | ACTIVE DRAFT | Manual AI-assisted editorial workflow plus source-checked first commissioning brief; not an approved outreach instruction or canonical policy. |
+| `docs/editorial/LAUNCH_ISSUE_ZERO.md` | ACTIVE DRAFT | Issue 00 editorial concept, emerging author acquisition experiment, honest draft outreach template and gates. |
+| `prototype/issue-zero/index.html` | ACTIVE DRAFT | Standalone responsive visual prototype; working name and article concepts are not publication commitments. |
 | `docs/standards/DOCUMENTATION_DISCIPLINE_v1.0.md` | STANDARD | Documentation source-of-truth, status and anti-duplication rules. |
 | `docs/operations/documentation_discipline_adoption.md` | OPERATIONS | Project adoption boundary for the documentation discipline standard. |
 
